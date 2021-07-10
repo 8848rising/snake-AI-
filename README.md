@@ -43,8 +43,8 @@ Basic Working :
 		]
   
   Model: 
-  >>    1 input layer of size 11\
-  >>    1 Hidden layer of size 256(can play with this)\
-  >>    1 output layer of size 3\
-  >>    using pytorch
+  >    1 input layer of size 11\
+  >    1 Hidden layer of size 256(can play with this)\
+  >    1 output layer of size 3\
+  >    using pytorch
 
