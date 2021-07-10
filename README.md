@@ -1,5 +1,7 @@
 # snake-AI-
 
+https://user-images.githubusercontent.com/37270043/125150179-7e2bb800-e15b-11eb-8bdf-889cf5d1bfbd.mov
+
 
 Basic Working :
   1. Created snakes game using pygame which acts as the environment
@@ -46,4 +48,3 @@ Basic Working :
   >>    1 output layer of size 3\
   >>    using pytorch
 
-https://user-images.githubusercontent.com/37270043/125150179-7e2bb800-e15b-11eb-8bdf-889cf5d1bfbd.mov
